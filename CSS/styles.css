@@ -6,6 +6,7 @@ body {
   font-size: 20px;
 }
 
+
 h1 {
   color: #66BFBF;
   font-size: 85px;
@@ -14,7 +15,6 @@ h1 {
   font-family: 'Sacramento', cursive;
   padding-top: 140px;
 }
-
 
 h2 {
   color: #66BFBF;
@@ -41,6 +41,16 @@ hr {
   margin: 100px auto;
 }
 
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+a:hover {
+  color: #EAF6F6;
+}
+
 .div {
   position: inherit;
 }
@@ -58,7 +68,7 @@ hr {
 
 .bottom-container {
   background-color: #66BFBF;
-  padding: 50px 0 20px;
+  padding: 50px 0 20px
 }
 
 .skill-row {
@@ -79,6 +89,12 @@ hr {
 .contact-me {
   width: 40%;
   margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
 }
 
 .top-icon {
@@ -104,6 +120,7 @@ hr {
 
 .middle-img {
   margin: auto;
+  padding-top: 80px;
 }
 
 .python-img {
