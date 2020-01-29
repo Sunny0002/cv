@@ -23,7 +23,7 @@ body {
   background: rgba(0, 0, 0, 0.6) !important;
 }
 
-.navbar-brand img {
+.navbar-brand text-grey {
   height: 2rem;
   width: 50%;
 }
@@ -44,7 +44,7 @@ body {
 
 /*--- Landing Page --*/
 .home-inner {
-  background-image: url(img/computers.png);
+  background-image: url(img/home.jpg);
 }
 
 .caption {
@@ -145,7 +145,7 @@ body {
 /*---Resources section--*/
 
 .fixed {
-  background-image: url(img/apple.png);
+  background-image: url(img/main.jpg);
   z-index: -1;
 }
 
