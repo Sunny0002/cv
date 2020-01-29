@@ -44,8 +44,7 @@ body {
 
 /*--- Landing Page --*/
 .home-inner {
-  background-image: url(img/main.jpg);
-  img-color: rgba(0, 0, 0, 0.75);
+  background-image: url(img/computers.png);
 }
 
 .caption {
@@ -54,7 +53,7 @@ body {
   position: absolute;
   top: 38%;
   z-index: 1;
-  color: teal;
+  color: white;
   text-transform: uppercase;
 }
 
@@ -77,7 +76,7 @@ body {
   border-radius: 0;
   padding: .6rem 1.3rem;
   font-size: 1.1rem;
-  color: teal;
+  color: white;
 }
 
 /*--- Course Section---*/
